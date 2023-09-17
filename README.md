@@ -1,9 +1,6 @@
 Hi 👋 Ma name Bahlul Hasanli
 ===============================
 
-Software Developer ⚡ JS Dev
----------------------------
-
 A simple person who likes to listen to music while writing code.
 
 * 🌍  I'm based in Azerbaijan, Baku
