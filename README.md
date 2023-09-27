@@ -1,7 +1,7 @@
-Hi 👋 Ma name Bahlul Hasanli
+Hi 🤙 Ma name Bahlul Hasanli
 ===============================
 
-A simple person who likes to listen to music while writing code.
+An individual who finds solace in the harmonious blend of music and coding.
 
 ### Socials
 
